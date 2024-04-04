@@ -1,0 +1,17 @@
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\NLog.config
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\HotelProject.exe.config
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\HotelProject.exe
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\HotelProject.pdb
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\Newtonsoft.Json.dll
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\NLog.dll
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\Newtonsoft.Json.xml
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\bin\Debug\NLog.xml
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.csproj.AssemblyReference.cache
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.GuestCard.resources
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.MainForm.resources
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.Properties.Resources.resources
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.csproj.GenerateResource.cache
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.csproj.CoreCompileInputs.cache
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelPro.F21F04D3.Up2Date
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.exe
+D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\obj\Debug\HotelProject.pdb

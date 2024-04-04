@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Пушкин Александр Сергеевич",
+        "birthDay": "1799-06-06T00:00:00",
+        "hasAnimals": false,
+        "status": "Свободные",
+        "roomNumber": 101
+    },
+    {
+        "id": 2,
+        "name": "Лермонтов Михаил Юрьевич",
+        "birthDay": "1814-10-15T00:00:00",
+        "hasAnimals": true,
+        "status": "Занятые",
+        "roomNumber": 102
+    },
+    {
+        "id": 3,
+        "name": "Толстой Лев Николаевич",
+        "birthDay": "1828-09-09T00:00:00",
+        "hasAnimals": false,
+        "status": "Зарезервированные",
+        "roomNumber": 103
+    },
+    {
+        "id": 4,
+        "name": "Есенин Сергей Александрович",
+        "birthDay": "1895-10-03T00:00:00",
+        "hasAnimals": false,
+        "status": "Выписываются",
+        "roomNumber": 104
+    },
+    {
+      "id": 5,
+      "name": "Белинский Виссарион Григорьевич",
+      "birthDay": "1811-06-11T00:00:00",
+      "hasAnimals": false,
+      "status": "Выписываются",
+      "roomNumber": 105
+    }
+]

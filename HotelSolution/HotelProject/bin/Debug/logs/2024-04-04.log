@@ -1,0 +1,42 @@
+2024-04-04 16:24:32.4774 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:24:32.5147 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:24:32.5147 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:24:32.5541 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:24:32.5541 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:24:32.5541 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:24:32.5541 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:24:34.7699 | HotelProject.MainForm.ShowAllDataAboutGuest | WARN | Пользователь не выбрал ни одного гостя в таблице и попытался открыть его 
+
+2024-04-04 16:24:35.3304 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:24:35.8700 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:24:37.3294 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 197 
+
+2024-04-04 16:26:41.0598 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:26:41.0911 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:26:41.1067 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:26:41.1223 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:26:41.1223 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:26:41.1223 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:26:41.1223 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:26:41.9346 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:26:48.8925 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 197 
+
