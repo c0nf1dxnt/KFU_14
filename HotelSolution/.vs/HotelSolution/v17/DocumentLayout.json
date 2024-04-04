@@ -7,31 +7,16 @@
       "RelativeMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\hotelproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2440C093-AE48-4746-8E1C-A0370D90C3CD}|HotelProjectUnitTests\\HotelProjectUnitTests.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\hotelmanager\\hotelsolution\\hotelprojectunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2440C093-AE48-4746-8E1C-A0370D90C3CD}|HotelProjectUnitTests\\HotelProjectUnitTests.csproj|solutionrelative:hotelprojectunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\hotelmanager\\hotelsolution\\hotelproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\hotelmanager\\hotelsolution\\hotelproject\\forms\\guestcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\forms\\guestcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Hotel\\HotelManager\\HotelProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\hotelmanager\\hotelsolution\\hotelproject\\data\\guests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\data\\guests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\hotelmanager\\hotelsolution\\hotelproject\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\hotelmanager\\hotelsolution\\hotelproject\\forms\\guestcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\forms\\guestcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|d:\\code\\kfuhomeworksem2\\laboratorywork\\hotelmanager\\hotelsolution\\hotelproject\\classes\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2975F713-51C5-446B-A44D-51F15FC6752E}|HotelProject\\HotelProject.csproj|solutionrelative:hotelproject\\classes\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,54 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "HotelProject\\Forms\\MainForm.Designer.cs",
               "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\MainForm.Designer.cs",
               "RelativeToolTip": "HotelProject\\Forms\\MainForm.Designer.cs",
-              "ViewState": "AQIAAGsBAAAAAAAAAADwv3UBAAAuAAAA",
+              "ViewState": "AQIAAJABAAAAAAAAAAAAAJ0BAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T14:12:16.233Z",
+              "WhenOpened": "2024-04-04T15:53:57.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GuestCard.cs",
-              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\GuestCard.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Forms\\GuestCard.cs",
-              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\GuestCard.cs",
-              "RelativeToolTip": "HotelProject\\Forms\\GuestCard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelProject\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "HotelProject\\Forms\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T14:00:40.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T15:52:38.64Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "guests.json",
-              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Data\\guests.json",
-              "RelativeDocumentMoniker": "HotelProject\\Data\\guests.json",
-              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Data\\guests.json",
-              "RelativeToolTip": "HotelProject\\Data\\guests.json",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-04T13:35:42.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Guest.cs",
-              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Classes\\Guest.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Classes\\Guest.cs",
-              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Classes\\Guest.cs",
-              "RelativeToolTip": "HotelProject\\Classes\\Guest.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProjectUnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "HotelProjectUnitTests\\UnitTest1.cs",
+              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProjectUnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "HotelProjectUnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T13:34:35.913Z",
+              "WhenOpened": "2024-04-04T15:06:07.748Z",
               "EditorCaption": ""
             },
             {
@@ -107,46 +78,9 @@
               "RelativeDocumentMoniker": "HotelProject\\Forms\\MainForm.cs",
               "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\MainForm.cs",
               "RelativeToolTip": "HotelProject\\Forms\\MainForm.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAuwHcAAAAgAAAA",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswIkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T13:33:58.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\MainForm.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Forms\\MainForm.cs",
-              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\MainForm.cs [Design]",
-              "RelativeToolTip": "HotelProject\\Forms\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T13:27:39.014Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GuestCard.cs [Design]",
-              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\GuestCard.cs",
-              "RelativeDocumentMoniker": "HotelProject\\Forms\\GuestCard.cs",
-              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\HotelManager\\HotelSolution\\HotelProject\\Forms\\GuestCard.cs [Design]",
-              "RelativeToolTip": "HotelProject\\Forms\\GuestCard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T13:27:37.389Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Hotel\\HotelManager\\HotelProject\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Hotel\\HotelManager\\HotelProject\\Program.cs",
-              "ToolTip": "D:\\Code\\kfuHomeworkSem2\\laboratoryWork\\Hotel\\HotelManager\\HotelProject\\Program.cs",
-              "RelativeToolTip": "..\\..\\Hotel\\HotelManager\\HotelProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T13:23:51.656Z",
               "EditorCaption": ""
             }
           ]

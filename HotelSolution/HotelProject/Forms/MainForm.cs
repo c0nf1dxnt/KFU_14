@@ -30,16 +30,23 @@ namespace HotelProject
         /// </summary>
         public void FillDataTable()
         {
-            logger.Trace("Попытка заполнить таблицу guestDataTable");
+            try
+            {
+                logger.Trace("Попытка заполнить таблицу guestDataTable");
 
-            guestDataTable.Columns.Add("Id", typeof(int));
-            guestDataTable.Columns.Add("Name", typeof(string));
-            guestDataTable.Columns.Add("BirthDay", typeof(DateTime));
-            guestDataTable.Columns.Add("HasAnimals", typeof(bool));
-            guestDataTable.Columns.Add("Status", typeof(string));
-            guestDataTable.Columns.Add("RoomNumber", typeof(int));
+                guestDataTable.Columns.Add("Id", typeof(int));
+                guestDataTable.Columns.Add("Name", typeof(string));
+                guestDataTable.Columns.Add("BirthDay", typeof(DateTime));
+                guestDataTable.Columns.Add("HasAnimals", typeof(bool));
+                guestDataTable.Columns.Add("Status", typeof(string));
+                guestDataTable.Columns.Add("RoomNumber", typeof(int));
 
-            logger.Trace("Таблица guestDataTable заполнена");
+                logger.Trace("Таблица guestDataTable заполнена");
+            }
+            catch (Exception ex)
+            {
+                logger.Error($"Вылезла ошибка! {ex}");
+            }
         }
         /// <summary>
         /// Метод для инициализации таблицы guestDataGridView и заполнения её столбцов
@@ -122,13 +129,13 @@ namespace HotelProject
             }
             catch (Exception ex)
             {
-                logger.Fatal($"В приложении возникла ошибка {ex}");
+                logger.Fatal($"В приложении возникла ошибка {ex}!");
             }
 
             logger.Debug("Данные из файла guests.json загружены в таблицу");
         }
 
-        private void TickClockTimer(object sender, EventArgs e)
+        public void TickClockTimer(object sender, EventArgs e)
         {
             this.clockLabel.Text = DateTime.Now.ToString("HH:mm:ss");
         }

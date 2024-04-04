@@ -1,0 +1,435 @@
+2024-04-04 18:10:23.1860 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:10:23.2638 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:10:23.3460 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:10:23.3460 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:10:23.3460 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:10:23.3460 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:10:23.3619 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:10:23.3619 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:10:23.3619 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:12:43.4903 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:12:43.5690 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:12:43.5760 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:12:43.5760 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:12:43.5760 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:12:43.5760 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:12:43.5760 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:12:43.5760 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:12:43.5760 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:12:48.1371 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:12:48.2132 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:12:48.2169 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:12:48.2169 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:12:48.2169 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:12:48.2169 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:12:48.2169 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:12:48.2169 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:12:48.2169 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:13:24.9809 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:13:25.0582 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:13:25.0622 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:13:25.0622 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:13:25.0622 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:13:25.0622 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:13:25.0622 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:13:25.0622 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:14:38.4219 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:14:38.5034 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:14:38.5034 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:14:38.5034 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:14:38.5034 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:14:38.5034 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:14:38.5176 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:14:38.5176 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:14:38.5176 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:15:48.4370 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:15:48.5129 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:15:48.5157 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:15:48.5157 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:15:48.5157 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:15:48.5157 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:15:48.5157 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:15:48.5157 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:15:48.5157 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:16:39.4517 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:16:39.5292 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:18:35.8337 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:18:35.9103 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:18:35.9103 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:18:35.9103 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:18:35.9103 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:18:35.9103 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:18:35.9230 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:18:35.9230 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:18:35.9230 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:19:44.7048 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:19:44.7817 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:19:44.7817 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:19:44.7817 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:19:44.7817 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:19:44.7817 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:19:44.7952 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:19:44.7952 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:19:44.7952 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:19:44.7952 | HotelProject.MainForm.FillDataTable | ERROR | System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable. 
+
+2024-04-04 18:24:23.4520 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:24:23.5357 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:24:23.6158 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:24:23.6158 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:24:23.6158 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:24:23.6158 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:24:23.6307 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:24:23.6307 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:24:23.6307 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:24:23.7359 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:24:23.7660 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:24:23.7867 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:24:23.8001 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:24:23.8253 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:28:17.2955 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:28:17.3740 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:28:17.3740 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:28:17.3740 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:28:17.3740 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:28:17.3740 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:28:17.3740 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:28:17.3740 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:28:17.5492 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:28:17.5609 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:28:17.5609 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:28:17.5609 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:28:17.5609 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:28:17.5609 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:28:17.5609 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:28:17.5609 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:28:17.5758 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:28:17.5758 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:28:17.5758 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:28:17.5758 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:54:33.7919 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:54:33.8737 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:54:33.8737 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:54:33.8737 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:54:33.8737 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:54:33.8737 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.8883 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:54:33.8883 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:54:33.9113 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.9443 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:54:33.9543 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.LoadGuestData | ERROR | Файла guests.json не существует в папке Data 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 18:54:33.9674 | HotelProject.MainForm.FillDataTable | ERROR | Вылезла ошибка! System.Data.DuplicateNameException: A column named 'Id' already belongs to this DataTable.
+   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumnCollection.BaseAdd(DataColumn column)
+   at System.Data.DataColumnCollection.AddAt(Int32 index, DataColumn column)
+   at System.Data.DataColumnCollection.Add(String columnName, Type type)
+   at HotelProject.MainForm.FillDataTable() in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 37 
+

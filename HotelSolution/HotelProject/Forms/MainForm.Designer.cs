@@ -414,7 +414,7 @@
         private System.Windows.Forms.Label guestListLabel;
         private System.Windows.Forms.Label hotelRoomLabel;
         private System.Windows.Forms.Button viewGuestCardButton;
-        private System.Windows.Forms.Label clockLabel;
+        public System.Windows.Forms.Label clockLabel;
         private System.Windows.Forms.Timer clockTimer;
         private System.Windows.Forms.PictureBox clockPictureBox;
         private System.Windows.Forms.RadioButton radioButton5;
