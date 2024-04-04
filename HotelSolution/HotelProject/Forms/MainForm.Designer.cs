@@ -113,7 +113,7 @@
             // clockPictureBox
             // 
             this.clockPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("clockPictureBox.Image")));
-            this.clockPictureBox.Location = new System.Drawing.Point(6, 495);
+            this.clockPictureBox.Location = new System.Drawing.Point(18, 470);
             this.clockPictureBox.Name = "clockPictureBox";
             this.clockPictureBox.Size = new System.Drawing.Size(38, 29);
             this.clockPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -126,7 +126,7 @@
             this.clockLabel.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.clockLabel.Font = new System.Drawing.Font("SF Pro Display", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.clockLabel.ForeColor = System.Drawing.Color.DeepSkyBlue;
-            this.clockLabel.Location = new System.Drawing.Point(36, 487);
+            this.clockLabel.Location = new System.Drawing.Point(48, 462);
             this.clockLabel.Name = "clockLabel";
             this.clockLabel.Size = new System.Drawing.Size(156, 44);
             this.clockLabel.TabIndex = 5;

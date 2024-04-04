@@ -15,6 +15,7 @@ namespace HotelProject
         public DataTable guestDataTable = new DataTable();
         private Guest selectedGuest = null;
         private static Logger logger = LogManager.GetCurrentClassLogger();
+        //Логи сохраняются в HotelProject\bin\Debug\logs
         public MainForm()
         {
             InitializeComponent();
@@ -214,19 +215,19 @@ namespace HotelProject
                     var thisGuest = guestsList[e.RowIndex];
                     selectedGuest = thisGuest;
 
-                    string picturePath = $"id{thisGuest.Id}.jpg";
+                    string picturePath = $"id{selectedGuest.Id}.jpg";
 
-                    guestNameLabel.Text = $"ФИО гостя: \n{thisGuest.Name}";
-                    guestStatusLabel.Text = $"Статус гостя: \n{thisGuest.Status}";
-                    guestDayOfArrivalLabel.Text = $"Дата заселения: {thisGuest.DayOfArrival}";
-                    guestDayOfDepartureLabel.Text = $"Дата выселения: {thisGuest.DayOfDeparture}";
+                    guestNameLabel.Text = $"ФИО гостя: \n{selectedGuest.Name}";
+                    guestStatusLabel.Text = $"Статус гостя: \n{selectedGuest.Status}";
+                    guestDayOfArrivalLabel.Text = $"Дата заселения: {selectedGuest.DayOfArrival}";
+                    guestDayOfDepartureLabel.Text = $"Дата выселения: {selectedGuest.DayOfDeparture}";
 
                     Image guestPicture = Image.FromFile($@"..\..\Data\Pictures\{picturePath}");
                     pictureBox1.Image = guestPicture;
 
-                    hotelRoomLabel.Text = $"Номер № {thisGuest.RoomNumber}";
+                    hotelRoomLabel.Text = $"Номер № {selectedGuest.RoomNumber}";
 
-                    logger.Debug($"Пользователь выбрал в таблице гостя {thisGuest.Name}");
+                    logger.Debug($"Пользователь выбрал в таблице гостя {selectedGuest.Name}");
 
                     if (thisGuest.Name == string.Empty)
                     {
