@@ -84,6 +84,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Content Include="Data\Pictures\id1.jpg" />
+    <Content Include="Data\Pictures\id2.jpg" />
+    <Content Include="Data\Pictures\id3.jpg" />
+    <Content Include="Data\Pictures\id4.jpg" />
+    <Content Include="Data\Pictures\id5.jpg" />
     <Content Include="Images\clock.png" />
     <Content Include="Images\guest.ico" />
     <Content Include="Images\logo.ico" />
@@ -108,5 +113,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

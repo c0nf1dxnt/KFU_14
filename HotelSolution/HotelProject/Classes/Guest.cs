@@ -10,6 +10,9 @@ namespace HotelProject
         private bool hasAnimals;
         private string status;
         private short roomNumber;
+        private string paymentType;
+        private DateTime dayOfArrival;
+        private DateTime dayOfDeparture;
 
         public int Id
         {
@@ -41,7 +44,22 @@ namespace HotelProject
             get { return roomNumber; }
         }
 
-        public Guest(int id, string name, DateTime birthDay, bool hasAnimals, string status, short roomNumber)
+        public string PaymentType
+        {
+            get { return paymentType; }
+        }
+
+        public DateTime DayOfArrival
+        {
+            get { return dayOfArrival; }
+        }
+        public DateTime DayOfDeparture
+        {
+            get { return dayOfDeparture; }
+        }
+
+        public Guest(int id, string name, DateTime birthDay, bool hasAnimals, string status, short roomNumber,
+            string paymentType, DateTime dayOfArrival, DateTime dayOfDeparture)
         {
             this.id = id;
             this.name = name;
@@ -49,6 +67,9 @@ namespace HotelProject
             this.hasAnimals = hasAnimals;
             this.status = status;
             this.roomNumber = roomNumber;
+            this.paymentType = paymentType;
+            this.dayOfArrival = dayOfArrival;
+            this.dayOfDeparture = dayOfDeparture;
         }
     }
 }

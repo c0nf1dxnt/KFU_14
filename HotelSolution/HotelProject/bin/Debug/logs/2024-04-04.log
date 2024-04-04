@@ -40,3 +40,813 @@
 2024-04-04 16:26:48.8925 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 197 
 
+2024-04-04 16:45:50.4026 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:45:50.4236 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:45:50.4357 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:45:50.4527 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:45:50.4527 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:45:50.4527 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:45:50.4527 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:45:58.5219 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IO.FileNotFoundException: \...\...\Data\Pictures\id1
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 207 
+
+2024-04-04 16:46:00.3023 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IO.FileNotFoundException: \...\...\Data\Pictures\id4
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 207 
+
+2024-04-04 16:46:03.4137 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IO.FileNotFoundException: \...\...\Data\Pictures\id1
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 207 
+
+2024-04-04 16:46:06.1540 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IO.FileNotFoundException: \...\...\Data\Pictures\id2
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 207 
+
+2024-04-04 16:46:36.3758 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:46:36.3933 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:46:36.4825 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:46:36.4825 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:46:36.4825 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:46:36.4825 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:46:36.4825 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:46:39.2510 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IO.FileNotFoundException: \...\...\Data\Pictures\id1.jpg
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 207 
+
+2024-04-04 16:48:00.2423 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:48:00.2714 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:48:00.2714 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:48:00.2936 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:48:00.2936 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:48:00.2936 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:48:00.2936 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:48:01.0824 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:48:02.3973 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:48:03.2435 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:48:03.9426 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 16:48:05.4841 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 16:48:41.7102 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:48:41.7327 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:48:41.7327 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:48:41.7567 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:48:41.7567 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:48:41.7567 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:48:41.7567 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:48:42.7638 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:48:43.6095 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:48:44.7786 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:48:45.8125 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 16:48:46.6725 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 16:48:47.9684 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:48:49.6656 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:48:51.4748 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:48:55.2335 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 16:48:56.2741 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 16:48:57.8658 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:49:47.2926 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:49:47.3415 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:49:47.3415 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:49:47.3738 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:49:47.3738 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:49:47.3738 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:49:47.3738 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:49:48.4066 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:49:49.2474 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:49:49.9538 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:49:50.5318 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:49:51.8718 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 16:49:52.5433 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 16:49:53.3525 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:49:53.7963 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:49:54.9324 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 16:49:54.9477 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервировано" 
+
+2024-04-04 16:49:55.6315 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервировано" 
+
+2024-04-04 16:49:55.6315 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 16:49:56.3757 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 16:49:56.3757 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервировано" 
+
+2024-04-04 16:49:56.9815 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервировано" 
+
+2024-04-04 16:49:56.9860 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 16:49:57.4727 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 16:49:57.4727 | HotelProject.MainForm.ChangedOccupiedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Занятые" 
+
+2024-04-04 16:49:58.0574 | HotelProject.MainForm.ChangedOccupiedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Занятые" 
+
+2024-04-04 16:49:58.0624 | HotelProject.MainForm.ChangedDischargedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Выписываются" 
+
+2024-04-04 16:49:59.5334 | HotelProject.MainForm.ChangedDischargedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Выписываются" 
+
+2024-04-04 16:49:59.5334 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 16:50:06.9739 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:50:09.1470 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 16:50:09.1470 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервировано" 
+
+2024-04-04 16:50:29.7024 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:50:29.7324 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:50:29.7324 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:50:29.7535 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:50:29.7535 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:50:29.7535 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:50:29.7535 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:50:31.0441 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 16:50:31.0570 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 16:50:34.0939 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 16:50:34.0939 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 16:50:50.1424 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:50:50.1725 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:50:50.1725 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:50:50.1941 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:50:50.1941 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:50:50.1941 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:50:50.1941 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:51:06.1924 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:51:06.2148 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:51:06.2223 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:51:06.2336 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:51:06.2336 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:51:06.2336 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:51:06.2336 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:51:13.9023 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:51:13.9225 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:51:13.9225 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:51:13.9456 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:51:13.9456 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:51:13.9456 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:51:13.9456 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:51:21.9433 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:51:21.9725 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:51:21.9873 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:51:22.0035 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:51:22.0035 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:51:22.0035 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:51:22.0035 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:51:31.0616 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:51:31.0824 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:51:31.0916 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:51:31.0916 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:51:31.0916 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:51:31.0916 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:51:31.0916 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:51:38.5538 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:51:38.5723 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:51:38.5838 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:51:38.6025 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:51:38.6025 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:51:38.6025 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:51:38.6025 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:51:49.4024 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:51:49.4327 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:51:49.4327 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:51:49.4527 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:51:49.4527 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:51:49.4527 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:51:49.4527 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:51:54.6226 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:51:54.6446 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:51:54.6446 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:51:54.6639 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:51:54.6639 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:51:54.6639 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:51:54.6639 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:52:05.3518 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:52:05.3735 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:52:05.3735 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:52:05.3955 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:52:05.3955 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:52:05.3955 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:52:05.3955 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:52:20.6960 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:52:20.7135 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:52:20.7226 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:52:20.7415 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:52:20.7415 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:52:20.7415 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:52:20.7415 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:52:25.9526 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:52:25.9723 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:52:25.9833 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:52:26.0014 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:52:26.0014 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:52:26.0014 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:52:26.0014 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:52:34.0052 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:52:34.6325 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:52:35.1825 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:52:35.7537 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:52:36.4138 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:52:37.0823 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 16:52:37.6764 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 16:52:39.1438 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 16:52:39.6492 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:52:40.1261 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:52:40.7156 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:52:50.1128 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:52:51.2235 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:52:52.6234 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 16:54:01.5449 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:54:01.5652 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:54:01.5652 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:54:01.5916 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:54:01.5916 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:54:01.5916 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:54:01.5916 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:54:36.7304 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:54:37.8479 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:54:38.4285 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:54:38.8416 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:55:18.8919 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 16:55:18.9324 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 16:55:18.9427 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 16:55:18.9824 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 16:55:18.9824 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 16:55:18.9824 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 16:55:18.9824 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 16:55:19.9986 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 16:57:16.1324 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 16:57:16.6617 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 16:57:17.3458 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 17:04:02.2724 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:04:02.2997 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:04:02.2997 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:04:02.3352 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:04:02.3352 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:04:02.3352 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:04:02.3352 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:04:04.1539 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:16:07.0566 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:16:07.0812 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:16:07.0812 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:16:07.1124 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:16:07.1124 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:16:07.1124 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:16:07.1124 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:16:08.6638 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:16:33.9840 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:16:34.0115 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:16:34.0145 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:16:34.0326 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:16:34.0326 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:16:34.0326 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:16:34.0326 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:16:35.7546 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:16:41.2826 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:16:42.3825 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 17:16:42.9797 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:16:43.4624 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:16:52.9126 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:16:52.9376 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:16:52.9376 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:16:52.9626 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:16:52.9626 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:16:52.9626 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:16:52.9626 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:16:54.7324 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:17:17.7534 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:17:17.7946 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:17:17.7946 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:17:17.8327 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:17:17.8327 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:17:17.8327 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:17:17.8327 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:17:19.1660 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:17:19.6981 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:17:20.3138 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 17:17:33.5234 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:17:33.5524 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:17:33.5619 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:17:33.5796 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:17:33.5796 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:17:33.5796 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:17:33.5796 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:17:34.7354 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:17:35.9460 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:17:36.5103 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 17:17:37.1516 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:17:37.7626 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:25:56.9935 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:25:57.0166 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:25:57.0166 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:25:57.0426 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:25:57.0426 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:25:57.0426 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:25:57.0426 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:25:58.0336 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:26:01.4536 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:26:02.3036 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:26:02.9805 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:26:03.8517 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:27:30.3827 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:27:30.4027 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:27:30.4124 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:27:30.4225 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:27:30.4225 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:27:30.4225 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:27:30.4225 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:27:31.8341 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:27:32.5245 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:27:33.0754 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 17:27:33.7723 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:27:58.9228 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:27:58.9469 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:27:58.9536 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:27:58.9714 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:27:58.9714 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:27:58.9714 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:27:58.9714 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:28:00.2936 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:33:02.0772 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:33:02.0995 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:33:02.1078 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:33:02.1316 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:33:06.3073 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:33:06.9044 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Есенин Сергей Александрович 
+
+2024-04-04 17:34:45.6936 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:34:45.7223 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:34:45.7338 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Толстой Лев Николаевич 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Толстой Лев Николаевич 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Есенин Сергей Александрович 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Есенин Сергей Александрович 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:34:45.7636 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:35:35.7882 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:35:35.8123 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:35:35.8123 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:35:35.8384 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:35:35.8384 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:35:35.8384 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:35:35.8384 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:35:35.8384 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:36:11.6123 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:36:11.6527 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:36:11.6737 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:36:11.7095 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:36:11.7095 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:36:11.7095 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:36:11.7095 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:36:11.7095 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:36:11.7095 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:39:05.9423 | HotelProject.MainForm.ShowGuestData | FATAL | В приложении возникла ошибка System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at HotelProject.MainForm.ShowGuestData(Object sender, DataGridViewCellEventArgs e) in D:\Code\kfuHomeworkSem2\laboratoryWork\HotelManager\HotelSolution\HotelProject\Forms\MainForm.cs:line 207 
+
+2024-04-04 17:39:06.8430 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 17:39:06.8430 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 17:39:07.7735 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:40:23.2626 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:40:23.2962 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:40:23.3126 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:40:23.3435 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:40:23.3435 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:40:23.3435 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:40:23.3435 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:40:23.3435 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:40:23.3435 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:40:24.6637 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Пушкин Александр Сергеевич 
+
+2024-04-04 17:40:27.4016 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Толстой Лев Николаевич 
+
+2024-04-04 17:40:27.8818 | HotelProject.MainForm.ShowGuestData | DEBUG | Пользователь выбрал в таблице гостя Лермонтов Михаил Юрьевич 
+
+2024-04-04 17:40:28.2038 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 17:40:28.2038 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 17:40:28.7817 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 17:40:28.7817 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 17:40:29.1953 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 17:40:29.2055 | HotelProject.MainForm.ChangedOccupiedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Занятые" 
+
+2024-04-04 17:40:29.8802 | HotelProject.MainForm.ChangedOccupiedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Занятые" 
+
+2024-04-04 17:40:29.8898 | HotelProject.MainForm.ChangedDischargedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Выписываются" 
+
+2024-04-04 17:40:51.0825 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:40:51.1245 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:40:51.1245 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:40:51.1577 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:40:51.1577 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:40:51.1577 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:40:51.1577 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:40:51.1577 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:40:51.1577 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+
+2024-04-04 17:40:56.0770 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 17:40:56.0770 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 17:40:57.1039 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 17:40:57.1124 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 17:40:58.3942 | HotelProject.MainForm.ChangedAnyRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Любой" 
+
+2024-04-04 17:40:58.4123 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 17:40:59.1337 | HotelProject.MainForm.ChangedReservedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Зарезервированные" 
+
+2024-04-04 17:40:59.1427 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 17:40:59.5524 | HotelProject.MainForm.ChangedFreeRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Свободные" 
+
+2024-04-04 17:40:59.5640 | HotelProject.MainForm.ChangedOccupiedRadioButton | INFO | Таблица офильтрована в соответствии с пунктом "Занятые" 
+
+2024-04-04 17:41:59.4037 | HotelProject.MainForm.InitDataGridView | TRACE | Попытка заполнить таблицу guestDataGridView 
+
+2024-04-04 17:41:59.4280 | HotelProject.MainForm.InitDataGridView | TRACE | Таблица guestDataGridView заполнена столбцами 
+
+2024-04-04 17:41:59.4280 | HotelProject.MainForm.LoadGuestData | TRACE | Попытка загрузки данных из файла guests.json 
+
+2024-04-04 17:41:59.4542 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:41:59.4542 | HotelProject.MainForm.LoadGuestData | WARN | В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя Белинский Виссарион Григорьевич 
+
+2024-04-04 17:41:59.4542 | HotelProject.MainForm.LoadGuestData | DEBUG | Данные из файла guests.json загружены в таблицу 
+
+2024-04-04 17:41:59.4542 | HotelProject.MainForm.FillDataTable | TRACE | Попытка заполнить таблицу guestDataTable 
+
+2024-04-04 17:41:59.4542 | HotelProject.MainForm.FillDataTable | TRACE | Таблица guestDataTable заполнена 
+
+2024-04-04 17:41:59.4542 | HotelProject.MainForm..ctor | TRACE | Программа успешно инициализирована 
+

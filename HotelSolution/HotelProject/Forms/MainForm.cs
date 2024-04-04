@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 using Newtonsoft.Json;
+using System.Drawing;
 using NLog;
 
 namespace HotelProject
@@ -54,7 +55,7 @@ namespace HotelProject
             guestDataGridView.Columns.Add(idColumn);
 
             var nameColumn = new DataGridViewTextBoxColumn();
-            nameColumn.Width = 250;
+            nameColumn.Width = 220;
             nameColumn.DataPropertyName = "Name";
             nameColumn.HeaderText = "Имя";
             guestDataGridView.Columns.Add(nameColumn);
@@ -66,19 +67,19 @@ namespace HotelProject
             guestDataGridView.Columns.Add(birthDayColumn);
 
             var hasAnimalsColumn = new DataGridViewTextBoxColumn();
-            hasAnimalsColumn.Width = 80;
+            hasAnimalsColumn.Width = 70;
             hasAnimalsColumn.DataPropertyName = "HasAnimals";
             hasAnimalsColumn.HeaderText = "Наличие животных";
             guestDataGridView.Columns.Add(hasAnimalsColumn);
 
             var statusColumn = new DataGridViewTextBoxColumn();
-            statusColumn.Width = 80;
+            statusColumn.Width = 140;
             statusColumn.DataPropertyName = "Status";
             statusColumn.HeaderText = "Статус";
             guestDataGridView.Columns.Add(statusColumn);
 
             var roomNumberColumn = new DataGridViewTextBoxColumn();
-            roomNumberColumn.Width = 80;
+            roomNumberColumn.Width = 70;
             roomNumberColumn.DataPropertyName = "RoomNumber";
             roomNumberColumn.HeaderText = "Номер комнаты";
             guestDataGridView.Columns.Add(roomNumberColumn);
@@ -103,6 +104,15 @@ namespace HotelProject
                     {
                         guestDataGridView.Rows.Add(guest.Id, guest.Name, guest.BirthDay, guest.HasAnimals, guest.Status,
                             guest.RoomNumber);
+
+                        if (guest.BirthDay > guest.DayOfArrival)
+                        {
+                            logger.Warn($"В таблицу был добавлен гость, который заехал в отель раньше чем родился. Имя гостя {guest.Name}");
+                        }
+                        if(guest.DayOfArrival > guest.DayOfDeparture)
+                        {
+                            logger.Warn($"В таблицу был добавлен гость, выселился раньше чем заселился. Имя гостя {guest.Name}");
+                        }
                     }
                 }
                 else
@@ -134,11 +144,11 @@ namespace HotelProject
         {
             if (reservedRadioBox.Checked)
             {
-                var data = guestsList.Where(item => item.Status.ToUpper() == "ЗАРЕЗЕРВИРОВАНО").ToList();
+                var data = guestsList.Where(item => item.Status.ToUpper() == "ЗАРЕЗЕРВИРОВАННЫЕ").ToList();
                 guestDataGridView.DataSource = data;
             }
 
-            logger.Info("Таблица офильтрована в соответствии с пунктом \"Зарезервировано\"");
+            logger.Info("Таблица офильтрована в соответствии с пунктом \"Зарезервированные\"");
         }
         private void ChangedFreeRadioButton(object sender, EventArgs e)
         {
@@ -196,15 +206,22 @@ namespace HotelProject
                 {
                     var thisGuest = guestsList[e.RowIndex];
                     selectedGuest = thisGuest;
-                    string name = thisGuest.Name;
-                    string status = thisGuest.Status;
 
-                    guestNameLabel.Text = $"ФИО гостя: \n{name}";
-                    guestStatusLabel.Text = $"Статус гостя: \n{status}";
+                    string picturePath = $"id{thisGuest.Id}.jpg";
 
-                    logger.Debug($"Пользователь выбрал в таблице гостя {name}");
+                    guestNameLabel.Text = $"ФИО гостя: \n{thisGuest.Name}";
+                    guestStatusLabel.Text = $"Статус гостя: \n{thisGuest.Status}";
+                    guestDayOfArrivalLabel.Text = $"Дата заселения: {thisGuest.DayOfArrival}";
+                    guestDayOfDepartureLabel.Text = $"Дата выселения: {thisGuest.DayOfDeparture}";
 
-                    if (name == string.Empty)
+                    Image guestPicture = Image.FromFile($@"..\..\Data\Pictures\{picturePath}");
+                    pictureBox1.Image = guestPicture;
+
+                    hotelRoomLabel.Text = $"Номер № {thisGuest.RoomNumber}";
+
+                    logger.Debug($"Пользователь выбрал в таблице гостя {thisGuest.Name}");
+
+                    if (thisGuest.Name == string.Empty)
                     {
                         logger.Warn("Добавлен пользователь с пустым именем");
                     }
@@ -228,9 +245,12 @@ namespace HotelProject
 
                 return;
             }
+
             var guestCard = new GuestCard();
 
-            guestCard.SetClientData(selectedGuest.Name, selectedGuest.BirthDay, selectedGuest.HasAnimals);
+            TimeSpan difference = selectedGuest.DayOfDeparture.Subtract(selectedGuest.DayOfArrival);
+            int differenceInDays = (int)difference.TotalDays;
+            guestCard.SetClientData(selectedGuest.Name, selectedGuest.BirthDay, selectedGuest.HasAnimals, selectedGuest.PaymentType, differenceInDays);
 
             guestCard.Show();
         }

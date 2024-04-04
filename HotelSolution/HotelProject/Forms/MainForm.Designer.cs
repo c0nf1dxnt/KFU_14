@@ -44,6 +44,9 @@
             this.searchLabel = new System.Windows.Forms.Label();
             this.guestDataGridView = new System.Windows.Forms.DataGridView();
             this.guestListLabel = new System.Windows.Forms.Label();
+            this.guestDayOfDepartureLabel = new System.Windows.Forms.Label();
+            this.guestDayOfArrivalLabel = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.guestStatusLabel = new System.Windows.Forms.Label();
             this.guestNameLabel = new System.Windows.Forms.Label();
             this.hotelRoomLabel = new System.Windows.Forms.Label();
@@ -61,6 +64,7 @@
             this.screenSplitterZone2.Panel2.SuspendLayout();
             this.screenSplitterZone2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guestDataGridView)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guestBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guestBindingSource1)).BeginInit();
             this.SuspendLayout();
@@ -88,8 +92,8 @@
             // screenSplitterZone1.Panel2
             // 
             this.screenSplitterZone1.Panel2.Controls.Add(this.screenSplitterZone2);
-            this.screenSplitterZone1.Size = new System.Drawing.Size(1235, 535);
-            this.screenSplitterZone1.SplitterDistance = 207;
+            this.screenSplitterZone1.Size = new System.Drawing.Size(1270, 534);
+            this.screenSplitterZone1.SplitterDistance = 212;
             this.screenSplitterZone1.SplitterWidth = 3;
             this.screenSplitterZone1.TabIndex = 0;
             // 
@@ -213,12 +217,15 @@
             // screenSplitterZone2.Panel2
             // 
             this.screenSplitterZone2.Panel2.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.screenSplitterZone2.Panel2.Controls.Add(this.guestDayOfDepartureLabel);
+            this.screenSplitterZone2.Panel2.Controls.Add(this.guestDayOfArrivalLabel);
+            this.screenSplitterZone2.Panel2.Controls.Add(this.pictureBox1);
             this.screenSplitterZone2.Panel2.Controls.Add(this.guestStatusLabel);
             this.screenSplitterZone2.Panel2.Controls.Add(this.guestNameLabel);
             this.screenSplitterZone2.Panel2.Controls.Add(this.hotelRoomLabel);
             this.screenSplitterZone2.Panel2.Controls.Add(this.viewGuestCardButton);
-            this.screenSplitterZone2.Size = new System.Drawing.Size(1025, 535);
-            this.screenSplitterZone2.SplitterDistance = 668;
+            this.screenSplitterZone2.Size = new System.Drawing.Size(1055, 534);
+            this.screenSplitterZone2.SplitterDistance = 683;
             this.screenSplitterZone2.SplitterWidth = 5;
             this.screenSplitterZone2.TabIndex = 0;
             // 
@@ -249,7 +256,7 @@
             this.guestDataGridView.Location = new System.Drawing.Point(0, 126);
             this.guestDataGridView.Margin = new System.Windows.Forms.Padding(4);
             this.guestDataGridView.Name = "guestDataGridView";
-            this.guestDataGridView.Size = new System.Drawing.Size(668, 406);
+            this.guestDataGridView.Size = new System.Drawing.Size(682, 406);
             this.guestDataGridView.TabIndex = 6;
             this.guestDataGridView.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.ShowGuestData);
             // 
@@ -265,11 +272,40 @@
             this.guestListLabel.TabIndex = 5;
             this.guestListLabel.Text = "Список гостей";
             // 
+            // guestDayOfDepartureLabel
+            // 
+            this.guestDayOfDepartureLabel.AutoSize = true;
+            this.guestDayOfDepartureLabel.Font = new System.Drawing.Font("SF Pro Display", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guestDayOfDepartureLabel.Location = new System.Drawing.Point(16, 435);
+            this.guestDayOfDepartureLabel.Name = "guestDayOfDepartureLabel";
+            this.guestDayOfDepartureLabel.Size = new System.Drawing.Size(152, 23);
+            this.guestDayOfDepartureLabel.TabIndex = 11;
+            this.guestDayOfDepartureLabel.Text = "Дата выселения:";
+            // 
+            // guestDayOfArrivalLabel
+            // 
+            this.guestDayOfArrivalLabel.AutoSize = true;
+            this.guestDayOfArrivalLabel.Font = new System.Drawing.Font("SF Pro Display", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guestDayOfArrivalLabel.Location = new System.Drawing.Point(16, 398);
+            this.guestDayOfArrivalLabel.Name = "guestDayOfArrivalLabel";
+            this.guestDayOfArrivalLabel.Size = new System.Drawing.Size(150, 23);
+            this.guestDayOfArrivalLabel.TabIndex = 10;
+            this.guestDayOfArrivalLabel.Text = "Дата заселения:";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(45, 69);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(252, 192);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
+            // 
             // guestStatusLabel
             // 
             this.guestStatusLabel.AutoSize = true;
             this.guestStatusLabel.Font = new System.Drawing.Font("SF Pro Display", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guestStatusLabel.Location = new System.Drawing.Point(16, 338);
+            this.guestStatusLabel.Location = new System.Drawing.Point(16, 325);
             this.guestStatusLabel.Name = "guestStatusLabel";
             this.guestStatusLabel.Size = new System.Drawing.Size(129, 23);
             this.guestStatusLabel.TabIndex = 8;
@@ -305,10 +341,10 @@
             this.viewGuestCardButton.FlatAppearance.BorderSize = 0;
             this.viewGuestCardButton.Font = new System.Drawing.Font("SF Pro Display", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.viewGuestCardButton.ForeColor = System.Drawing.Color.Transparent;
-            this.viewGuestCardButton.Location = new System.Drawing.Point(89, 462);
+            this.viewGuestCardButton.Location = new System.Drawing.Point(83, 485);
             this.viewGuestCardButton.Margin = new System.Windows.Forms.Padding(4);
             this.viewGuestCardButton.Name = "viewGuestCardButton";
-            this.viewGuestCardButton.Size = new System.Drawing.Size(182, 47);
+            this.viewGuestCardButton.Size = new System.Drawing.Size(182, 37);
             this.viewGuestCardButton.TabIndex = 0;
             this.viewGuestCardButton.Text = "Просмотр карточки";
             this.viewGuestCardButton.UseVisualStyleBackColor = false;
@@ -332,7 +368,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1235, 535);
+            this.ClientSize = new System.Drawing.Size(1270, 534);
             this.Controls.Add(this.screenSplitterZone1);
             this.Font = new System.Drawing.Font("SF Pro Display", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
@@ -356,6 +392,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.screenSplitterZone2)).EndInit();
             this.screenSplitterZone2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guestDataGridView)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guestBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guestBindingSource1)).EndInit();
             this.ResumeLayout(false);
@@ -385,6 +422,9 @@
         private System.Windows.Forms.Label searchLabel;
         private System.Windows.Forms.Label guestNameLabel;
         private System.Windows.Forms.Label guestStatusLabel;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label guestDayOfDepartureLabel;
+        private System.Windows.Forms.Label guestDayOfArrivalLabel;
     }
 }
 
